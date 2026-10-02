@@ -57,4 +57,12 @@ This branch adds detailed documentation for MLflow experiment tracking.
 
 ## Merge Resolution
 
+<<<<<<< HEAD
 MERGED-VERSION: Both RandomForest and GradientBoosting tuning configs are documented.MAIN-VERSION: GradientBoosting tuning config 
+=======
+MERGED-VERSION: Both RandomForest and GradientBoosting tuning configs are documented. 
+BRANCH-VERSION: RandomForest tuning config 
+BRANCH-VERSION: RandomForest tuning config 
+BRANCH-VERSION: RandomForest tuning config
+>>>>>>> conflict-simulation
+BRANCH-VERSION: RandomForest tuning config
