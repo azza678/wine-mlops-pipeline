@@ -1,0 +1,12 @@
+.venv/
+venv/
+mlruns/
+mlartifacts/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+*.pkl
+*.joblib
+.DS_Store
